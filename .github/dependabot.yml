@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: gomod
     directory: "/"
     commit-message:
-      prefix: "chore(gomod)"
+      prefix: "deps(gomod)"
     schedule:
       interval: weekly
       day: sunday
