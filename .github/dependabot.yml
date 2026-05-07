@@ -6,4 +6,3 @@ updates:
       prefix: "deps(gomod)"
     schedule:
       interval: monthly
-    assignees:
